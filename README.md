@@ -84,7 +84,7 @@
 
 ###
 <p align="left"> 
-  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo UNASP e atualmente curso o <strong>2º semestre de Engenharia de Software</strong> no UNASP. <br><br>
+  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo UNASP e atualmente curso o <strong>4º semestre de Engenharia de Software</strong> no UNASP. <br><br>
   Tenho me aprofundado em <strong>C#</strong>, com foco em <strong>.NET</strong>. Também venho explorando tecnologias como <strong>Dynamics</strong>, <strong>MySQL</strong> e <strong>lógica de programação</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática 🚀
 </p>
